@@ -9,3 +9,7 @@ It contains the files that will be part of the next commit. This allows for user
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can add only the files that you are commiting.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches could be used when changes/experimentation is desired but these changes may not be permanent.
