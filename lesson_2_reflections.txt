@@ -17,3 +17,7 @@ Branches could be used when changes/experimentation is desired but these changes
 How do the diagrams help you visualize the branch structure?
 
 Diagrams show where (when) branches occur.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All the commits from both branches are now accesible. It is represented this way to show the merged branches connecting.
