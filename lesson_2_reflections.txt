@@ -13,3 +13,7 @@ You can add only the files that you are commiting.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches could be used when changes/experimentation is desired but these changes may not be permanent.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams show where (when) branches occur.
