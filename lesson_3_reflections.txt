@@ -19,3 +19,7 @@ Why might you want to always pull changes manually rather than having Git automa
  How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
  Google Docs? Everything would be harder.
+
+ When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+ When they are an experimental feature. You can still access master and have something that works.
