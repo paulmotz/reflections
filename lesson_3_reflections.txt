@@ -11,3 +11,7 @@ Why might you want to always pull changes manually rather than having Git automa
  A fork is when a user's repo is copied to another's.
  A Clone is when a github repo is copied to a local machine.
  A branch can be part of a repo. It can be used for experimentation. 
+
+ What is the benefit of having a copy of the last known state of the remote stored locally?
+
+ you can work on the commit offline and then add changes later.
