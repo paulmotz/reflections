@@ -15,3 +15,7 @@ Why might you want to always pull changes manually rather than having Git automa
  What is the benefit of having a copy of the last known state of the remote stored locally?
 
  you can work on the commit offline and then add changes later.
+
+ How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+ Google Docs? Everything would be harder.
