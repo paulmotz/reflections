@@ -26,7 +26,7 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges 
 
 Pros: 
 -does not guess too much, so code is not drastically changed
--all commits in merged branches are reachable/accessible
+-all commits in merged branches are reachable
 
 Cons:
 -Can sometimes show conflicts for what appear to be trivial issues 
